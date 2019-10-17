@@ -25,7 +25,7 @@
                with font-awesome or any other icon font library -->
           <li class="nav-item has-treeview menu-open">
             <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <i class="fas fa-tachometer-alt"></i>
               <p>
                 Starter Pages
                 <i class="right fas fa-angle-left"></i>
